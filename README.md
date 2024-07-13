@@ -2,6 +2,11 @@ JavaScript ファイルのモジュール置き場
 
 Gist はインポートし辛いのでここでまとめる
 
+**【使用例】**
+
+- jsdelivr
+- esm.sh
+
 ```html
 <!doctype html>
 
